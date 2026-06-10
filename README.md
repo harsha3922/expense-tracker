@@ -26,7 +26,7 @@ expense-tracker/
 ├── index.html
 ├── style.css
 ├── script.js
-└── assets/
+
 
 ## How to Use
 
@@ -39,9 +39,7 @@ expense-tracker/
 
 ## Live Demo
 
-Add your GitHub Pages link here:
-
-https://yourusername.github.io/expense-tracker/
+https://harsha3922.github.io/expense-tracker/
 
 ## Author
 
